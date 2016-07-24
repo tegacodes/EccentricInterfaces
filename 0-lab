@@ -1,0 +1,58 @@
+#Lab 0: Sensing
+
+##Arduino
+[https://www.arduino.cc/](https://www.arduino.cc/)
+
+**What is it?**
+
+* Open source microcontroller
+* Off line board that connects sensors and actuators
+* Tutorials and getting started guides are here: 
+	* [https://www.arduino.cc/en/Guide/HomePage](https://www.arduino.cc/en/Guide/HomePage)
+
+
+##Particle 
+
+[https://www.particle.io/](https://www.particle.io/)  
+(Photon models)
+
+**What is it?**
+
+* Open source microcontroller (with an Ardunio heart) but with wifi connectivity. 
+* 8 digital GPIO pins and 6 analog input pins.
+* It is programmed with the same language as Arduino but comes with it's own browser based IDE. 
+* Programs are uploaded to each board from the IDE over wifi.
+* Although these boards are designed to operate wirelessly, this means you will need to consider [power.](https://docs.particle.io/datasheets/photon-datasheet/#power) They can be powered by  3.6VDC and 5.5VDC batteries via the mini usb port.
+* Boards are compatible with sensors, and sensor data is sent to the Particle API 
+* Sensor data can easily be set up with IFTTT via the platform.
+
+
+##Citizen Sensing Kit
+
+[https://smartcitizen.me/](https://smartcitizen.me/)
+
+**What is it?**
+
+* Prebaked sensing kit with wireless connectivity: Measures temperature, Humidity, Light, Sound, Carbon Monoxide, Nitrogen Dioxide 
+* This board publishes 
+* Smart citizen API documentation: [http://developer.smartcitizen.me/#root-endpoint](http://developer.smartcitizen.me/#root-endpoint)
+* [API data example](https://api.smartcitizen.me/v0/devices/3545/readings?sensor_id=7&rollup=1m&from=2016-07-17&to=2016-07-20)
+* 
+* [data example 2](https://api.smartcitizen.me/v0/devices/3545/readings?sensor_id=15&rollup=4h&function=max&from=2016-07-17&to=2016-07-20)
+
+
+
+##To try (if time permits):
+
+####Particle + Light sensor:
+
+* Login to the [particle build environment](https://build.particle.io).
+* Connect your board.
+* Go to this [getting started guide](* [Getting started tutorial is here](https://docs.particle.io/guide/getting-started/start/photon/)) and read through the device modes section.
+* Go to [webIDE section](https://docs.particle.io/guide/getting-started/build/photon/) and familiarize yourselves with this section
+* Go to the code examples and run through the ["Read your Photoresistor: Function and Variable" section.](https://docs.particle.io/guide/getting-started/examples/photon/#read-your-photoresistor-function-and-variable)
+
+**Trouble shooting:**
+
+* Not sure what's happening with your Particle? See this guide describing [device modes.](https://docs.particle.io/guide/getting-started/modes/electron/)
+

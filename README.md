@@ -1,13 +1,13 @@
-# Eccentric Interfaces, Environmental Sensibilities
+# Eccentric Interfaces, Environmental Interventions
 Taught by [Tega Brain](http://tegabrain.com/) and [Annalie Berner](http://www.annelieberner.com/)  
 [Copenhagen Institute for Interactive Design](http://ciid.dk/education/summer-school/ciid-summer-school-2016/workshops/eccentric-interfaces-environmental-interventions/) 
 
 July 25th – 29th, 2016  
 
-Class notes [online here](https://tegacodes.github.io/Eccentric-Interfaces/#/)
+Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)
 
 ##Description:
-How design shift our perception of natural systems and other lifeforms? How technological interfaces and practices be reconceived to accommodate more-than-only human perspectives and agendas? What does eccentric design, that privileges our interconnectedness with the ‘non-human’ look like?  
+How can design shift perceptions of natural systems and other lifeforms? How can technological interfaces and practices be reconceived to accommodate more-than-only human perspectives and agendas? What does eccentric design, that privileges our interconnectedness with the ‘non-human’ look like?  
 
 This workshop focuses on data-driven design interventions and interfaces that address our interconnectedness with environmental systems and other lifeforms, in ways that go beyond divisive political headlines or scientific papers. Practices of data collection and data performance will be considered as being less about sensors, and more about structuring participation and building experiences that foster localized environmental literacy and stewardship.  
 
@@ -25,21 +25,48 @@ We will ground the course in the following foundational questions:
 ###Learning expectations:  
 
 * Learn to program basic communication between sensors, Arduino and Processing, Javascript
-* Learn to program real-time data visualizations using programming environments such as d3.js and p5js
+* Learn to program real-time data visualizations using programming environments such as p5js
 * Learn how to engage scientific research and concepts through aesthetic and creative strategies
 * Hone ability to communicate visual and physical concepts through quick sketches and low resolutions prototypes
 Prerequisites: Basic skills in programming and Arduino will serve students well but are not required.
 
 ##Schedule
 
+This subject to change.
+
 ###Monday
+* [Introductions](https://tegacodes.github.io/EccentricInterfaces/slides/0/0.html)
+* Lecture 0: Politics and Poetics of Coexistence
+* Jebediah Purdy reading discussion.
+* Lab 0:
+	* Intro to github
+	* Introduction to environmental sensing using Arduino, Particle and Citizen Sensor Kits
+* Lecture 1: Analogue data collection
+* Proposition 1: Exploring Analog Methods.
+* Habitat reading for guest lecture tomorrow. 
 
 ###Tuesday
+* Guest lecture and discussion: [Habitats.dk](http://www.habitats.dk/)
+* Lab 1:
+	* Intro to physical outputs
+	* Intro to screen based outputs
+* Lecture 2: Radical Interfaces
+* Bratton and Jeremijenko reading discussion
+* Studio: Develop project starting points and arrange project groups
 
 ###Wednesday
+* Project starting points presentation and discussion (9.30-11)
+* Research and projects development (11.30-12.30)
+Lunch
+* Lecture 3: Design Strategies (1.30-2.30)
+* Studio work - optional advanced programming eg. more p5, more Particle, Phillips Hue as relevant (3-5pm)
 
 ###Thursday
+* Environmental Ethics 
+* Christopher Stone reading discussion (9.30-10.30)
+* Project progress check in
+* Studio
 
 ###Friday
-* Studio time
+* Studio 
 * Project presentation and crits from 3pm.
