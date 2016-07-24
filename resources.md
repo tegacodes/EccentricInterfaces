@@ -1,4 +1,6 @@
 #Tech Resources
+Lab 0:
+* https://github.com/tegacodes/EccentricInterfaces/blob/master/0-lab.md
 
 ###Environment (data collection)
 
