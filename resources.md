@@ -2,7 +2,7 @@
 Notes for Lab 0:
 * https://github.com/tegacodes/EccentricInterfaces/blob/master/0-lab.md
 
-###Environment (data collection)
+###Environmental data collection
 
 ###SMART CITIZEN:
 * Example data stream:
@@ -25,6 +25,11 @@ Notes for Lab 0:
 ###SENSING MOTION
 * Accelerometer [app for iphone.](http://www.bitshapesoftware.com/instruments/gyrosc/)
  
-###DATA TOOL
+#DATA PUBLISHING
 * IoT data tool (send data to and from the cloud): [http://dweet.io/](http://dweet.io/)
 * Tutorial on sending data from [Arduino to Dweet](https://www.openhomeautomation.net/internet-of-things-dashboard/)
+
+DATA VISUALISATION TUTORIALS
+* Introduction video tutorials to working with [p5js and data by Daniel Shiffman/](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
+
+
