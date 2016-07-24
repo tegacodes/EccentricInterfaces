@@ -36,7 +36,7 @@ Prerequisites: Basic skills in programming and Arduino will serve students well 
 
 ##Schedule
 
-This subject to change.
+This schedule is subject to change so please check it daily.
 
 ###Monday
 * [Introductions](https://tegacodes.github.io/EccentricInterfaces/slides/0/0.html)
