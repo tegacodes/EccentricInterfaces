@@ -5,12 +5,12 @@ Taught by [Tega Brain](http://tegabrain.com/) and [Annalie Berner](http://www.an
 July 25th – 29th, 2016  
 
 ##Useful Links
-Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)
-Class Shared Doc [https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN] 
-[Class Slack](https://eccentric-interfaces.slack.com)
-[Class Tumblr](https://www.tumblr.com/join/DSsKvwaQ8U)
+Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)  
+Class Shared Doc [https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN]   
+[Class Slack](https://eccentric-interfaces.slack.com)  
+[Class Tumblr](https://www.tumblr.com/join/DSsKvwaQ8U)  
 
-##Description:
+##Description:  
 How can design shift perceptions of natural systems and other lifeforms? How can technological interfaces and practices be reconceived to accommodate more-than-only human perspectives and agendas? What does eccentric design, that privileges our interconnectedness with the ‘non-human’ look like?  
 
 This workshop focuses on data-driven design interventions and interfaces that address our interconnectedness with environmental systems and other lifeforms, in ways that go beyond divisive political headlines or scientific papers. Practices of data collection and data performance will be considered as being less about sensors, and more about structuring participation and building experiences that foster localized environmental literacy and stewardship.  
