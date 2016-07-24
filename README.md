@@ -6,7 +6,7 @@ July 25th – 29th, 2016
 
 ##Useful Links
 Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)  
-Class Shared Doc [https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN]   
+Class Shared Doc [https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN](https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN)
 [Class Slack](https://eccentric-interfaces.slack.com)  
 [Class Tumblr](https://www.tumblr.com/join/DSsKvwaQ8U)  
 
