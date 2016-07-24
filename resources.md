@@ -29,7 +29,7 @@ Notes for Lab 0:
 * IoT data tool (send data to and from the cloud): [http://dweet.io/](http://dweet.io/)
 * Tutorial on sending data from [Arduino to Dweet](https://www.openhomeautomation.net/internet-of-things-dashboard/)
 
-DATA VISUALISATION TUTORIALS
+###Data Visualisation and Sofware Resources
 * Introduction video tutorials to working with [p5js and data by Daniel Shiffman/](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
 
