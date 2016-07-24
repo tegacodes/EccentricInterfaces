@@ -17,12 +17,14 @@ Notes for Lab 0:
 * Start on p5 code repository:[https://github.com/aberner6/e_i_code](https://github.com/aberner6/e_i_code)
 
 ###PARTICLE:
-* Annotated examples:
-* https://docs.particle.io/guide/getting-started/examples/photon/
+* Annotated examples: https://docs.particle.io/guide/getting-started/examples/photon/
 
 ###ARDUINO:
-* https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/
+* Sensor tutorial and [many more excellent guides to pcomp](https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/)
 
-###MISCELLANEOUS
+###SENSING MOTION
 * Accelerometer [app for iphone.](http://www.bitshapesoftware.com/instruments/gyrosc/)
-* IoT dashboard tool: [http://dweet.io/](http://dweet.io/)
+ 
+###DATA TOOL
+* IoT data tool (send data to and from the cloud): [http://dweet.io/](http://dweet.io/)
+* Tutorial on sending data from [Arduino to Dweet](https://www.openhomeautomation.net/internet-of-things-dashboard/)
