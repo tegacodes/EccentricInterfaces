@@ -25,11 +25,15 @@ Notes for Lab 0:
 ###SENSING MOTION
 * Accelerometer [app for iphone.](http://www.bitshapesoftware.com/instruments/gyrosc/)
  
-#DATA PUBLISHING
+###Data Publication
 * IoT data tool (send data to and from the cloud): [http://dweet.io/](http://dweet.io/)
 * Tutorial on sending data from [Arduino to Dweet](https://www.openhomeautomation.net/internet-of-things-dashboard/)
 
 ###Data Visualisation and Sofware Resources
 * Introduction video tutorials to working with [p5js and data by Daniel Shiffman/](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r)
 
+###Troubleshooting
+* Field guide to debugging: https://p5js.org/tutorials/debugging/
+* How to ask questions on IRC: http://rurounijones.github.io/blog/2009/03/17/how-to-ask-for-help-on-irc//
+* Debugging guide by Clay Shirky (videos): https://vimeo.com/channels/debugging
 
