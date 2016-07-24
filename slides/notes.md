@@ -1,19 +1,22 @@
 ##Practitioners
-###Artists
 
-* Joseph Beuys   
+***Big incomplete list of artists and designers exploring ecology/environment/data***
+
+* Joseph Beuys
+	* [Coyote](http://www.tate.org.uk/art/artworks/beuys-coyote-ar00733)
+	* [7000 Oaks](https://en.wikipedia.org/wiki/7000_Oaks)
 * Natalie Jeremijenko:
 	* [Exploring Urban](https://vimeo.com/68771598)
-* Sputniko - http://sputniko.com/
-* Hans Haack, Condensation Cube
-* Pierre Huyghe - http://www.artnews.com/2014/11/18/pierre-huyghe/ 
+	* [OneTrees](http://www.nyu.edu/projects/xdesign/onetrees/description/)
+* Sputniko: http://sputniko.com/
+* Hans Haack: [Condensation Cube](http://www.macba.cat/en/condensation-cube-1523
+* Pierre Huyghe: http://www.artnews.com/2014/11/18/pierre-huyghe/) 
 * Cohen Van Balen 
 	* http://www.cohenvanbalen.com/work/nowhere-a-shadow 
 	* http://www.cohenvanbalen.com/work/infrastructures-of-natural-history
 * Pierre Proske - Brickets - http://www.digitalstar.net/art/brickets/
-* Usman Haque - Natural Fuse
-* Martin Howes - Earth boot computer
-* Radiotropic series
+* Usman Haque - Natural Fuse: http://www.naturalfuse.org/
+* Martin Howes - Earth boot computer: http://www.1010.co.uk/org/earthcode.html
 * Meghan Moebeitiks - The Plant is Present. http://www.meghanmoebeitiks.com/the-plant-was-present/
 * Future Farmers 
 * Dan Allende - http://www.danallende.com/index.php?/forthebirds/video/ 
@@ -26,23 +29,24 @@
 * Dimitrios Stamatis, Špela Petrič, Pei-Ying Lin, Jasmina Weiss  - Plant Sex Consultancy - http://psx-consultancy.com/
 * Pony Express - Ecosexual Bathhouse - http://helloponyexpress.com/ 
 * Bio-sensing in Art in the 1970s - http://datagarden.org/43/richard-lowenberg-interview/
-* Botanicalls - http://www.botanicalls.com/
 * Ian Ingram - Danger Squirrel Nutkins - http://www.ingramclockworks.com/machines/2009_squirrel.html 
 * Amy Balkin - Statistic Garden - http://tomorrowmorning.net/statisticgarden
 * Center for Genomic Gastronomy 
 * Smog Tasting - http://genomicgastronomy.com/work/2011-2/smog-tasting/
-* Scale Free Network - drawing as biomonitoring
+* Scale Free Network: http://scalefreenetwork.com.au/
 * Lucas Ihlein 
 	* Walking upstream - http://lucasihlein.net/Walking-Upstream-Waterways-of-the-Illawarra
 	* Environmental Audit - http://lucasihlein.net/Environmental-Audit
 * Brandon Ballengee - http://brandonballengee.com/projects/love-motels
 	* http://brandonballengee.com/wp-content/uploads/2012/12/Brandon_Ballengee_Impetus_2009.pdf
-* [Foam](http://fo.am/activities/) http://machinewilderness.net/
+* [Foam](http://fo.am/activities/) 
+	* http://machinewilderness.net/
 
 ###Ecological Design
-* Terraform
-* The Living
-* Scape Studio
+* The Living: http://www.thelivingnewyork.com/
+* Scape Studio: http://www.scapestudio.com/
+* Terraform One: http://www.terreform.org/
+* Habitats: http://www.habitats.dk/
 
 ##Projects by Issue
 ***Water***
@@ -96,6 +100,7 @@ Green Light - http://www.environmentalhealthclinic.net/portfolio_page/greenlight
 * Moth Cinema - https://vimeo.com/47713836 
 * Cloud OCR - http://ifyoulived.org/translations.html 
 * Céleste Boursier-Mougenot - https://www.youtube.com/watch?v=8ZQ4VmicDeM 
+* Being Radiotropic, Tega Brain: http://tegabrain.com/Being-Radiotropic
 
 ***Interspecies communication***
 
@@ -103,6 +108,8 @@ Green Light - http://www.environmentalhealthclinic.net/portfolio_page/greenlight
 * For the Birds - Dan Allende - http://www.danallende.com/index.php?/forthebirds/about/ 
 * Sputniko - Crowbot Jenny - http://sputniko.com/2011/08/crowbot-jenny-2011/
 * Agnes Meyer-Brandis, Moon Goose Colony - http://www.blubblubb.net/mga/moon-goose-colony-video.html
+* Botanicalls - http://www.botanicalls.com/
+
 
 ***Data representation/performance strategies***
 

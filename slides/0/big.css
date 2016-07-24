@@ -13,8 +13,14 @@ h1, h2, h3, p {
   margin:0;
 }
 
+h4{
+  margin:0;
+  font-size: 0.6em;
+}
+
 em, a {
   font-style:normal;
+  line-height: 1.3em;
   color:#8dbd0c;
 }
 .mac{
