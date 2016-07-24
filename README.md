@@ -11,7 +11,7 @@ Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)
 [Class Tumblr](https://www.tumblr.com/join/DSsKvwaQ8U)  
 
 ##Description:  
-How can design shift perceptions of natural systems and other lifeforms? How can technological interfaces and practices be reconceived to accommodate more-than-only human perspectives and agendas? What does eccentric design, that privileges our interconnectedness with the ‘non-human’ look like?  
+How can design shift perceptions of natural systems and other lifeforms? How can interfaces and practices be reconceived to attend to more-than-only human perspectives and agendas? What does eccentric design, that privileges our interconnectedness with the ‘non-human’ look like?  
 
 This workshop focuses on data-driven design interventions and interfaces that address our interconnectedness with environmental systems and other lifeforms, in ways that go beyond divisive political headlines or scientific papers. Practices of data collection and data performance will be considered as being less about sensors, and more about structuring participation and building experiences that foster localized environmental literacy and stewardship.  
 
@@ -36,7 +36,7 @@ Prerequisites: Basic skills in programming and Arduino will serve students well 
 
 ##Schedule
 
-This schedule is subject to change so please check it daily.
+This schedule is subject to change so please check in daily.
 
 ###Monday
 * [Introductions](https://tegacodes.github.io/EccentricInterfaces/slides/0/0.html)
@@ -45,12 +45,12 @@ This schedule is subject to change so please check it daily.
 * Lab 0:
 	* Intro to github
 	* Introduction to environmental sensing using Arduino, Particle and Citizen Sensor Kits
-* Lecture 1: Analogue data collection
+* Lecture 1: Creative data practices
 * Proposition 1: Exploring Analog Methods.
 * [Habitat reading](https://github.com/tegacodes/EccentricInterfaces/blob/master/attachments/Bynatur_publikation.pdf) for guest lecture tomorrow. 
 
 ###Tuesday
-* Guest lecture and discussion: [Habitats.dk](http://www.habitats.dk/)
+* Guest lecture and visit from [Habitats.dk](http://www.habitats.dk/)
 * Lab 1:
 	* Intro to physical outputs
 	* Intro to screen based outputs
