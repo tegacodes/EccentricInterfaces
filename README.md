@@ -4,7 +4,11 @@ Taught by [Tega Brain](http://tegabrain.com/) and [Annalie Berner](http://www.an
 
 July 25th – 29th, 2016  
 
+##Useful Links
 Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)
+Class Shared Doc [https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN] 
+[Class Slack](https://eccentric-interfaces.slack.com)
+[Class Tumblr](https://www.tumblr.com/join/DSsKvwaQ8U)
 
 ##Description:
 How can design shift perceptions of natural systems and other lifeforms? How can technological interfaces and practices be reconceived to accommodate more-than-only human perspectives and agendas? What does eccentric design, that privileges our interconnectedness with the ‘non-human’ look like?  
@@ -43,7 +47,7 @@ This subject to change.
 	* Introduction to environmental sensing using Arduino, Particle and Citizen Sensor Kits
 * Lecture 1: Analogue data collection
 * Proposition 1: Exploring Analog Methods.
-* Habitat reading for guest lecture tomorrow. 
+* [Habitat reading](https://github.com/tegacodes/EccentricInterfaces/blob/master/attachments/Bynatur_publikation.pdf) for guest lecture tomorrow. 
 
 ###Tuesday
 * Guest lecture and discussion: [Habitats.dk](http://www.habitats.dk/)
