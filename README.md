@@ -35,6 +35,12 @@ We will ground the course in the following foundational questions:
 * Hone ability to communicate visual and physical concepts through quick sketches and low resolutions prototypes
 Prerequisites: Basic skills in programming and Arduino will serve students well but are not required.
 
+##Resources
+
+* [Readings and References](https://github.com/tegacodes/EccentricInterfaces/blob/master/reading-resources.md)
+* [Examples of practice](https://github.com/tegacodes/EccentricInterfaces/blob/master/practice.md)
+* [Tech Resources](https://github.com/tegacodes/EccentricInterfaces/blob/master/tech-resources.md)
+
 ##Schedule
 
 This schedule is subject to change so please check in daily.
