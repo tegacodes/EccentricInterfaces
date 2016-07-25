@@ -4,8 +4,9 @@ Taught by [Tega Brain](http://tegabrain.com/) and [Annalie Berner](http://www.an
 
 July 25th – 29th, 2016  
 
+[Class outline](https://tegacodes.github.io/EccentricInterfaces/#/) 
+
 ##Useful Links
-Class outline [online here](https://tegacodes.github.io/EccentricInterfaces/#/)  
 [Class Shared Doc](https://paper.dropbox.com/doc/Test-doc-hhRZor2rFpYTw2rcqLmTN)  
 [Class Slack](https://eccentric-interfaces.slack.com)  
 [Class Tumblr](https://www.tumblr.com/join/DSsKvwaQ8U)  
