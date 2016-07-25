@@ -37,3 +37,7 @@ Notes for Lab 0:
 * How to ask questions on IRC: http://rurounijones.github.io/blog/2009/03/17/how-to-ask-for-help-on-irc//
 * Debugging guide by Clay Shirky (videos): https://vimeo.com/channels/debugging
 
+##Github resources
+* See the guide for [getting started with Github](https://github.com/tegacodes/EccentricInterfaces/blob/master/githubguide.md)
+* See this guide for the flavor of [markdown used on Github.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+

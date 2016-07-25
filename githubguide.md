@@ -1,8 +1,12 @@
 #Github
-To see and download the course resources you do not need to setup or use git so this is an optional tutorial. To proceed without setup, you can download a zip of the entire course repository by pressing this button at the course URL. (However remember we are adding to this repo daily so it will change through the week).
+To see and download the course resources you do not need to setup or use git so this is an optional tutorial. To proceed without setup, you can download a zip of the entire course repository by pressing this button at the course URL. (However remember we are adding to this repo daily so it will change through the week).  
+  
+
 ![github](https://github.com/tegacodes/EccentricInterfaces/blob/master/attachments/images/git.png?raw=true)
 
-You can also copy raw code from examples without downloading. Reveal the code in its raw form and copy and paste:
+You can also copy raw code from examples without downloading. Reveal the code in its raw form and copy and paste:  
+  
+    
 ![github](https://github.com/tegacodes/EccentricInterfaces/blob/master/attachments/images/raw-git.png?raw=true)
 
 
