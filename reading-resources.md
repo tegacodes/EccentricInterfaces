@@ -13,19 +13,20 @@
 * [Ivan Illich and the telephone as the perfect tool](http://www.theatlantic.com/technology/archive/2012/04/why-the-landline-telephone-was-the-perfect-tool/255930/)
 * [From Critical Design to Critical Infrastructure:Lessons from Turkopticon](https://www.dropbox.com/s/obt73eayyzex9o1/p32-irani-silberman-interactions-2014-critical%20infrastructure%20turkopticon.pdf?dl=0)
 * [Solving the wrong problems](http://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html?mwrsm=Facebook&_r=1)
+* Franklin, Ursula M. The real world of technology. House of Anansi, 1999.
 
 ###On design and activisim:
 * [The Accessible Icon Project, An icon is a verb, Sara Hendren](http://accessibleicon.org/)
 
 ###Theory
 * Bruno Latour, [Where are the missing masses](http://www.bruno-latour.fr/sites/default/files/50-MISSING-MASSES-GB.pdf). Run down on actor network theory and some positions from which to think about technology.)
+* Latour, Bruno. We have never been modern. Harvard University Press, 2012. 
+* Morton, Timothy. The ecological thought. Harvard University Press, 2010.
 
 ####Environmental Art
-
 * [Art in the Anthropocene](http://www.openhumanitiespress.org/books/titles/art-in-the-anthropocene/)
 * [To Life, Eco Art in Pursuit of a Sustainable Planet](http://www.ucpress.edu/book.php?isbn=9780520273627)
 
 ###The creative process
 * Ira Glass on creative work: [https://www.youtube.com/watch?v=PbC4gqZGPSY](https://www.youtube.com/watch?v=PbC4gqZGPSY)
-
 
