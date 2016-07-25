@@ -20,5 +20,12 @@
 ###Theory
 * Bruno Latour, [Where are the missing masses](http://www.bruno-latour.fr/sites/default/files/50-MISSING-MASSES-GB.pdf). Run down on actor network theory and some positions from which to think about technology.)
 
+####Environmental Art
+
+* [Art in the Anthropocene](http://www.openhumanitiespress.org/books/titles/art-in-the-anthropocene/)
+* [To Life, Eco Art in Pursuit of a Sustainable Planet](http://www.ucpress.edu/book.php?isbn=9780520273627)
+
 ###The creative process
 * Ira Glass on creative work: [https://www.youtube.com/watch?v=PbC4gqZGPSY](https://www.youtube.com/watch?v=PbC4gqZGPSY)
+
+
