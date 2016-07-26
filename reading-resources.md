@@ -6,6 +6,11 @@
 * Purdy, Jedediah. [Anthropocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea) 2015.
 * Potter, Emily. [Climate Change and the Problem of Representation,](http://www.australianhumanitiesreview.org/archive/Issue-May-2009/potter.htm) 2009.
 
+#Design Practices:
+* Unpleasant Design [for ex: Hostile Urban Architecture.](99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/)
+* Critical Design [Dunne & Raby](http://www.dunneandraby.co.uk/content/bydandr/13/0)
+* On the boundary between critical and speculative design [James Auger](http://www.clotmag.com/auger-loizeau)
+* "
 
 ##Additional Readings
 
