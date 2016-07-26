@@ -1,4 +1,4 @@
-#Using p5.js to make data driven animation with the Citizen Sensor Kit
+#Data driven animation with p5js + Citizen Sensor Kit
 
 * p5js & SCK
 * Download [the code example zipped here.](https://github.com/tegacodes/EccentricInterfaces/blob/master/code/P5/code-zip.zip)
