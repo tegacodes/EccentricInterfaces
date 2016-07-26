@@ -53,3 +53,8 @@ For help on p5 + APIS, Shiffman has many tutorials on this here:
 ##Radio Comms
 * https://www.youtube.com/watch?v=wlhuO82IZjQ
 * http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo
+
+
+
+
+* [This board](http://www.x-io.co.uk/products/x-osc/#!prettyPhoto) is expensive, but a plug and play wireless accelerometer with room for other sensors. Sends data via OSC.
