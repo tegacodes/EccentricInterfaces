@@ -1,4 +1,4 @@
-#The Politis and Poetics of Coexistence
+#The Politics and Poetics of Coexistence
 
 ###Artworks
 * City Wilderness Trail, Diego Bonetto, Mark Gerada, Tega Brain
