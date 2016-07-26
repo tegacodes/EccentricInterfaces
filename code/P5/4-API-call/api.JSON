@@ -1,0 +1,297 @@
+//*******************************************************
+//https://api.smartcitizen.me/v0/devices/3636/readings?sensor_id=14&rollup=1h&avg&from=2016-07-18&to=2016-07-30
+
+{
+	"device_id": 3636,
+	"sensor_key": "light",
+	"sensor_id": 14,
+	"component_id": 14,
+	"rollup": "1h",
+	"function": "avg",
+	"from": "2016-07-18T00:00:00Z",
+	"to": "2016-07-30T00:00:00Z",
+	"sample_size": 1202,
+	"readings": [
+		[
+			"2016-07-26T11:00:41Z",
+			3557.61551724138
+		],
+		[
+			"2016-07-26T10:00:46Z",
+			3409.29152542373
+		],
+		[
+			"2016-07-26T09:00:52Z",
+			3282.15
+		],
+		[
+			"2016-07-26T08:00:00Z",
+			5092.8131147541
+		],
+		[
+			"2016-07-26T07:00:08Z",
+			4016.06166666667
+		],
+		[
+			"2016-07-26T06:00:15Z",
+			2712.155
+		],
+		[
+			"2016-07-26T05:00:22Z",
+			1709.67333333333
+		],
+		[
+			"2016-07-26T04:00:30Z",
+			699.846666666667
+		],
+		[
+			"2016-07-26T03:00:37Z",
+			162.105
+		],
+		[
+			"2016-07-26T02:00:46Z",
+			4.85
+		],
+		[
+			"2016-07-26T01:00:52Z",
+			0
+		],
+		[
+			"2016-07-26T00:00:00Z",
+			0
+		],
+		[
+			"2016-07-25T23:00:07Z",
+			0
+		],
+		[
+			"2016-07-25T22:00:13Z",
+			16.8440677966102
+		],
+		[
+			"2016-07-25T21:00:35Z",
+			80.7366666666667
+		],
+		[
+			"2016-07-25T20:00:29Z",
+			97.8600000000001
+		],
+		[
+			"2016-07-25T19:00:37Z",
+			169.06
+		],
+		[
+			"2016-07-25T18:00:44Z",
+			1364.48
+		],
+		[
+			"2016-07-25T17:14:50Z",
+			2225.02391304348
+		],
+		[
+			"2016-07-25T15:00:00Z",
+			271.686363636364
+		],
+		[
+			"2016-07-25T14:04:11Z",
+			174.541071428571
+		]
+	]
+}
+//*******************************************************
+//API CALL: https://api.smartcitizen.me/v0/devices/3636/
+
+{
+	"id": 3636,
+	"uuid": "71a93734-ebb1-4492-90da-26130052432b",
+	"name": "SCK CIID 007",
+	"description": "to learn and experiment​ ",
+	"state": "has_published",
+	"system_tags": [
+		"new",
+		"online",
+		"outdoor"
+	],
+	"user_tags": [
+		"Experimental"
+	],
+	"last_reading_at": "2016-07-26T11:31:24Z",
+	"added_at": "2016-07-25T13:53:55Z",
+	"updated_at": "2016-07-25T14:04:19Z",
+	"mac_address": "[FILTERED]",
+		"owner": {
+			"id": 5469,
+			"uuid": "bdebd186-3e2a-4bde-832b-09789ceda427",
+			"username": "Ahmed Al-Nabhani",
+			"avatar": "https://smartcitizen.s3.amazonaws.com/avatars/default.svg",
+			"url": null,
+			"joined_at": "2016-07-25T13:49:58Z",
+			"location": {
+				"city": null,
+				"country": null,
+				"country_code": null
+			},
+			"device_ids": []
+		},
+		"data": {
+			"recorded_at": "2016-07-26T11:31:24Z",
+			"added_at": "2016-07-26T11:31:24Z",
+			"location": {
+				"ip": null,
+				"exposure": "outdoor",
+				"elevation": null,
+				"latitude": 55.6824773,
+				"longitude": 12.5931647,
+				"geohash": "u3buy8djfn",
+				"city": "København",
+				"country_code": "DK",
+				"country": "Denmark"
+			},
+			"sensors": [
+				{
+					"id": 14,
+					"ancestry": null,
+					"name": "BH1730FVC",
+					"description": "Digital Ambient Light Sensor",
+					"unit": "Lux",
+					"created_at": "2015-02-02T18:24:56Z",
+					"updated_at": "2015-07-05T19:57:36Z",
+					"measurement_id": 3,
+					"uuid": "ac4234cf-d2b7-4cfa-8765-9f4477e2de5f",
+					"value": 2520.1,
+					"raw_value": 2520.1,
+					"prev_value": 2553.5,
+					"prev_raw_value": 2553.5
+				},
+				{
+					"id": 17,
+					"ancestry": null,
+					"name": "Battery",
+					"description": "Custom Circuit",
+					"unit": "%",
+					"created_at": "2015-02-02T18:26:28Z",
+					"updated_at": "2015-07-05T19:55:34Z",
+					"measurement_id": 7,
+					"uuid": "5b0e390e-781d-4243-8e97-579eead09792",
+					"value": 100,
+					"raw_value": 100,
+					"prev_value": 100,
+					"prev_raw_value": 100
+				},
+				{
+					"id": 13,
+					"ancestry": "19",
+					"name": "HPP828E031",
+					"description": "Humidity",
+					"unit": "%",
+					"created_at": "2015-02-02T18:24:30Z",
+					"updated_at": "2015-07-05T19:54:54Z",
+					"measurement_id": 2,
+					"uuid": "1c19ae8f-b995-460f-87a3-a9d0c140abfb",
+					"value": 48.7556762695312,
+					"raw_value": 21892,
+					"prev_value": 49.4118041992188,
+					"prev_raw_value": 22236
+				},
+				{
+					"id": 12,
+					"ancestry": "19",
+					"name": "HPP828E031",
+					"description": "Temperature",
+					"unit": "ºC",
+					"created_at": "2015-02-02T18:24:02Z",
+					"updated_at": "2015-07-05T19:55:07Z",
+					"measurement_id": 1,
+					"uuid": "2922d20e-3b83-4d98-8791-cfcdfc12fa99",
+					"value": 20.6170703125,
+					"raw_value": 27456,
+					"prev_value": 20.5098193359375,
+					"prev_raw_value": 27416
+				},
+				{
+					"id": 15,
+					"ancestry": "20",
+					"name": "MiCS-4514",
+					"description": "NO2",
+					"unit": "kOhm/ppm",
+					"created_at": "2015-02-02T18:25:51Z",
+					"updated_at": "2015-07-05T19:57:59Z",
+					"measurement_id": 6,
+					"uuid": "0c5b7e74-ef87-431d-89af-dd51de84b10e",
+					"value": 19.807,
+					"raw_value": 19.807,
+					"prev_value": 18.679,
+					"prev_raw_value": 18.679
+				},
+				{
+					"id": 16,
+					"ancestry": "20",
+					"name": "MiCS-4514",
+					"description": "CO",
+					"unit": "kOhm/ppm",
+					"created_at": "2015-02-02T18:26:11Z",
+					"updated_at": "2015-07-05T19:58:18Z",
+					"measurement_id": 5,
+					"uuid": "49a26be4-3ce1-4f2e-a09b-4296fefcfe17",
+					"value": 607.788,
+					"raw_value": 607.788,
+					"prev_value": 597.578,
+					"prev_raw_value": 597.578
+				},
+				{
+					"id": 21,
+					"ancestry": null,
+					"name": "Microchip RN-131",
+					"description": "802.11 b/g WiFi",
+					"unit": "# networks",
+					"created_at": "2015-05-04T11:17:18Z",
+					"updated_at": "2015-07-05T19:57:22Z",
+					"measurement_id": 9,
+					"uuid": "5b1f0e38-336a-4abf-9989-69b48f0026ef",
+					"value": 25,
+					"raw_value": 25,
+					"prev_value": 25,
+					"prev_raw_value": 25
+				},
+				{
+					"id": 7,
+					"ancestry": null,
+					"name": "POM-3044P-R",
+					"description": "Electret microphone with envelope follower sound pressure sensor (noise)",
+					"unit": "dB",
+					"created_at": "2015-02-02T18:16:41Z",
+					"updated_at": "2015-09-17T14:56:00Z",
+					"measurement_id": 4,
+					"uuid": "5efd2376-6783-476b-bf85-57ead5f89654",
+					"value": 67.6,
+					"raw_value": 284,
+					"prev_value": 66.65,
+					"prev_raw_value": 246
+				},
+				{
+					"id": 18,
+					"ancestry": null,
+					"name": "Solar Panel",
+					"description": "Custom Circuit",
+					"unit": "V",
+					"created_at": "2015-02-02T18:26:40Z",
+					"updated_at": "2015-07-05T19:54:35Z",
+					"measurement_id": 8,
+					"uuid": "95d59a95-3791-423c-a201-b19c327765d8",
+					"value": 0,
+					"raw_value": 0,
+					"prev_value": 0,
+					"prev_raw_value": 0
+				}
+			]
+		},
+		"kit": {
+			"id": 3,
+			"uuid": "6ae30424-4e09-4318-b96d-771996657c70",
+			"slug": "sck:1,1",
+			"name": "SmartCitizen Kit 1.1",
+			"description": "SCK 1.1 - Ambient Board",
+			"created_at": "2015-02-02T18:23:16Z",
+			"updated_at": "2015-09-16T16:49:41Z"
+		}
+	}
