@@ -41,10 +41,13 @@ function draw() {
   //image function
   if(dataz!=null){
 
-    soundData = dataz.data.data.sensors[7].raw_value;
+    soundData = dataz.data.data.sensors[7].value;
     println("soundData:"+soundData);
 
     light = dataz.data.data.sensors[0].raw_value;
+
+    //note sometimes .value seems to give a 0, and other times .raw_value does for both
+    //these sensors. Check out latest values here: https://api.smartcitizen.me/v0/devices/3636/
 
     println("Light"+light);
   }
@@ -61,5 +64,5 @@ function draw() {
   image(images[j], x, 0, 300, height); //draw images to screen for each value of j (position in your array)
 
   j++; //j generates values that we then use to call each position of the array
-  println(frameRate);
+
 }

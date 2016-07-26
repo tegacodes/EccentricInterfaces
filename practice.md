@@ -56,6 +56,7 @@
 * Martin Howes - Earth boot computer: http://www.1010.co.uk/org/earthcode.html
 
 ***Pollution***
+
 * Brooke Singer - Toxic Sites - http://www.toxicsites.us/ 
 * Breast Milk Cheese - http://www.miriamsimun.com/human-cheese/ 
 * Center for Genomic Gastronomy, Smog Tasting - http://genomicgastronomy.com/work/2011-2/smog-tasting/
@@ -76,6 +77,7 @@
 * Being Radiotropic, Tega Brain: http://tegabrain.com/Being-Radiotropic
 
 ***Interspecies relations/communication***
+
 * Dialogue - Terike Haapoje - http://www.terikehaapoja.net/dialogue/ 
 * For the Birds - Dan Allende - http://www.danallende.com/index.php?/forthebirds/about/ 
 * Sputniko - Crowbot Jenny - http://sputniko.com/2011/08/crowbot-jenny-2011/
@@ -86,7 +88,12 @@
 * Dimitrios Stamatis, Špela Petrič, Pei-Ying Lin, Jasmina Weiss  - Plant Sex Consultancy - http://psx-consultancy.com/
 * Brandon Ballengee - http://brandonballengee.com/projects/love-motels
 
+***Non-human infrastructures
+
+* Pollinator Pathway - http://www.pollinatorpathway.com/active-projects/the-first-pathway/
+
 ***Non-human subjectivity/rights/services***
+
 * Tarike Haapoje - History of Others - http://www.historyofothers.org/
 * Venice Biennale Show - http://www.terikehaapoja.net/closed-circuit-open-duration-exhibition-venice-biennale-nordic-pavilion/ 
 * Spela Petric - Naval Gazing - http://www.spelapetric.org/portfolio/naval-gazing/ 
@@ -112,7 +119,7 @@
 * Terraform One: http://www.terreform.org/
 * Habitats: http://www.habitats.dk/
 
-***Practitioners***
+***Misc Practitioners***
 
 * Natalie Jeremijenko: [Exploring Urban](https://vimeo.com/68771598)
 * Future Farmers: http://www.futurefarmers.com/
