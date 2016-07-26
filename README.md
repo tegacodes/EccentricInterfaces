@@ -61,7 +61,7 @@ This schedule is subject to change so please check in daily.
 * Lab 1:
 	* Intro to physical outputs
 	* Intro to screen based outputs
-* Lecture 2: Radical Interfaces
+* Lecture 2: Rethinking Interfaces
 * Bratton and Jeremijenko reading discussion
 * Studio: Develop project starting points and arrange project groups
 
