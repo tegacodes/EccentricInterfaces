@@ -66,17 +66,19 @@ This schedule is subject to change so please check in daily.
 * Studio: Develop project starting points and arrange project groups
 
 ###Wednesday
-* Project starting points presentation and discussion (9.30-11)
-* Research and projects development (11.30-12.30)
-Lunch
-* Lecture 3: Design Strategies (1.30-2.30)
-* Studio work - optional advanced programming eg. more p5, more Particle, Phillips Hue as relevant (3-5pm)
+* Project starting points concept work and presentation prep (9.30-12)
+* Project presentation and crits (12.00-1.00)
+Lunch (1.00-2.00)
+* Lecture 3: Design Strategies (2.00-2.30)
+* Studio work - (2.30-4.30)
+* [Illutron Boat](visit art/tech/science studio - http://illutron.dk/About-illutron/solo) (4.30-6.00)
 
 ###Thursday
 * Environmental Ethics 
 * Christopher Stone reading discussion (9.30-10.30)
 * Project progress check in
 * Studio
+* Optional programming / physical computing sessions
 
 ###Friday
 * Studio 
