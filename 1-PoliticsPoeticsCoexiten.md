@@ -1,4 +1,4 @@
-The Politis and Poetics of Coexistence
+#The Politis and Poetics of Coexistence
 
 ###Artworks
 * City Wilderness Trail, Diego Bonetto, Mark Gerada, Tega Brain
@@ -10,7 +10,7 @@ The Politis and Poetics of Coexistence
 * Keeping Time, Tega Brain
 * Accessibility Icon, Sara Hendren, Brian Glenney, Tim Ferguson-Sauder
 
-###Ecology Examples
+###Ecology
 * Eco-system circuits, Howard Odum: https://en.wikipedia.org/wiki/Howard_T._Odum
 * Cane Toad in Australia: https://en.wikipedia.org/wiki/Cane_toads_in_Australia
 * Biosphere 2: https://en.wikipedia.org/wiki/Biosphere_2
