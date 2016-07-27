@@ -72,7 +72,7 @@ This schedule is subject to change so please check in daily.
 * Lecture 3: Design Strategies (2.00-2.30)
 * Studio work (2.30-4.30)
 * Present project plan, schedule, delegation, options/alternatives for production. Think about the level of fidelity you want to achieve and whether this is feasible. Small, poetic interventions rather than 1 big project. Consider making an overall series of works or kit of parts that come together to address the issue you are focusing on. (4.30-5)
-* [Illutron Boat](visit art/tech/science studio - http://illutron.dk/About-illutron/solo) (5.00-6.00)
+* [Illutron Boat](http://illutron.dk/About-illutron/solo) (5.00-6.00)
 
 ###Thursday
 * Environmental Ethics 
