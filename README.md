@@ -79,6 +79,7 @@ This schedule is subject to change so please check in daily.
 * Christopher Stone reading discussion (9.30-10.30)
 * Project progress check in
 * Studio
+* Project Crit (2.00)
 * Optional programming / physical computing sessions
 
 ###Friday
