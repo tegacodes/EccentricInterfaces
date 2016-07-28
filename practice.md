@@ -104,6 +104,8 @@
 * Janet Laurence - Vanishing - http://www.janetlaurence.com/vanishing-2/
 * Dan Allende - http://www.danallende.com/index.php?/forthebirds/video/ 
 * Meghan Moebeitiks - The Plant is Present. http://www.meghanmoebeitiks.com/the-plant-was-present/
+* Bio-sensing in Art in the 1970s - http://datagarden.org/43/richard-lowenberg-interview/
+	* http://brandonballengee.com/wp-content/uploads/2012/12/Brandon_Ballengee_Impetus_2009.pdf
 
 ***Data representation/performance strategies***
 
@@ -119,11 +121,10 @@
 * Terraform One: http://www.terreform.org/
 * Habitats: http://www.habitats.dk/
 
-***Misc Practitioners***
+***Awesome Labs/Places***
 
-* Natalie Jeremijenko: [Exploring Urban](https://vimeo.com/68771598)
+* [Environmental Health Clinic](http://www.environmentalhealthclinic.net/) [Talk on exploring Urban](https://vimeo.com/68771598)
 * Future Farmers: http://www.futurefarmers.com/
-* Bio-sensing in Art in the 1970s - http://datagarden.org/43/richard-lowenberg-interview/
-	* http://brandonballengee.com/wp-content/uploads/2012/12/Brandon_Ballengee_Impetus_2009.pdf
 * [Foam](http://fo.am/activities/) 
-	* http://machinewilderness.net/
+* [More than human lab](http://morethanhumanlab.org/)
+* Adaptation and Ability Group, Orlin College - http://aplusa.org/
