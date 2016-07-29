@@ -24,6 +24,7 @@ Notes for Lab 0:
 
 ###SENSING MOTION
 * Accelerometer [app for iphone.](http://www.bitshapesoftware.com/instruments/gyrosc/)
+* See accelerometer example in code folder
  
 ##Data Publication
 * IoT data tool (send data to and from the cloud): [http://dweet.io/](http://dweet.io/)
