@@ -33,7 +33,7 @@ Gross HUH!
 
 **Real Time API Calls**
 
-* To make real time API calls to the SCK we have to use an additional library called [socket.io.](http://socket.io/). Check out the examples in the repo.
+* To make real time API calls to the SCK we have to use an additional library called [socket.io.](http://socket.io/). Check out the examples [in the repo.](https://github.com/tegacodes/EccentricInterfaces/tree/master/code/P5)
 * To get this going, you don't need socket. Just add the following function to the top of your sketch.js file:
 
 ```
