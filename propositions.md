@@ -27,7 +27,7 @@ To start:
 * What are the questions that inform your inquiry? Why are you interested in this matter? What don't you know?
 * Are you aiming to make your audience/user uncomfortable / inspired / aware / curious / in awe / active / engaged / confused / amused, etc. 
 
-####Stuck for inspiration? Come up with 3 responses for the following questions.
+####Stuck for inspiration? Brainstorm responses for the following questions.
 * Fulfill an ecosystem service. Promote/document your service in some way. 
 * Write a guide for how to carry out an ecosystem service.
 * Collaborate with a non-human life form. Take a photo. 
