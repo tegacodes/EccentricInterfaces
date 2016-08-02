@@ -53,7 +53,7 @@ This schedule is subject to change so please check in daily.
 	* Intro to github
 	* Introduction to environmental sensing using Arduino, Particle and Citizen Sensor Kits
 * Lecture 1: Creative data practices
-* Proposition 1: Exploring Analog Methods.
+* Proposition 1: Exploring Analog Methods. [Lecture slides/references] (http://aberner6.github.io/eccentricInterfaces/analogLecture/index.html)
 * [Habitat reading](https://github.com/tegacodes/EccentricInterfaces/blob/master/attachments/Bynatur_publikation.pdf) for guest lecture tomorrow. 
 
 ###Tuesday
