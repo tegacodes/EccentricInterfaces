@@ -10,12 +10,12 @@ Consider the following prompts:
 * How can you use your body to measure an environment or dynamic process within it?
 * Is your observation to be a momentary recording, a trace left over time, or a comparative observation.
 
-##1 Proposition: Anthropomorphising a datastream (1 day)
+##1 Proposition: Anthropomorphising a datastream 
 ###Brief
 Using the p5js examples, take one of the published datastreams from either the Smart Citizen Sensor Kit or from a custom sensor of your choosing and anthropomorphise the data stream in some way. How can you transform it from being a series of numbers to being more experiential or sensual to a human? Can you translate it into a relevant social or cultural form eg. images, jokes, puns, music etc etc?  
 **Due:** Wednesday morning.
 
-##2 Project Brief: (2.5 days)
+##2 Project Brief: 
 Choose an environmental matter of concern, this could be a species, ecological issue, or environmental infrastructure that you are interested in working with. It should relate to you and be something that others are concerned with, such public perception of an urban species, an exploration of a dynamic natural/built system in the local area. By reflecting on your chosen issue, identify key everyday objects, practices, habits, devices, built environmental features or designed interfaces that define or limit or control or suggest how people think, feel, and act around the issue. Develop a creative work in response to this research, your project might aim to explicate and reveal some aspects of and tensions within your chosen matter of concern, or it might suggest or structure another way for your audience to interact with it.  
 
 **Due:** Friday afternoon.
