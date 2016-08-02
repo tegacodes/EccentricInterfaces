@@ -2,6 +2,7 @@
 by Noe Bhandari
 
 [![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
+![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/c1.jpg)
 
 ###Spiritum
 by Sharon Hsienpu Chen and James Zhou 
@@ -9,3 +10,22 @@ by Sharon Hsienpu Chen and James Zhou
 ![Spiritum1](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s2.jpg)
 ![Spiritum2](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s1.jpg)
 ![Spiritum3](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s3.jpg)
+
+###Buzzed Off (Pollinator Studies)
+by Harper Hunt, Mindy Lee and Ian Robinson
+
+![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b1.jpg)
+![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b2.jpg)
+![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b3.jpg)
+
+###No Bees Browser Add-on
+by Mindy Lee
+
+###London Air Quality Study
+by Julian Burgess
+![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a1.jpg)
+![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a2.jpg)
+
+###Of the Sky
+by Patrick Svensson and Jenna Xu
+![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyvizy/sky1.jpg)
