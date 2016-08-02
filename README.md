@@ -61,7 +61,7 @@ This schedule is subject to change so please check in daily.
 * Lab 1:
 	* Intro to physical outputs
 	* Intro to screen based outputs
-* Lecture 2: Rethinking Interfaces
+* Lecture 2: [Rethinking Interfaces](https://github.com/tegacodes/EccentricInterfaces/blob/master/2-Interfaces.md)
 * Bratton and Jeremijenko reading discussion
 * Studio: Develop project starting points and arrange project groups
 
