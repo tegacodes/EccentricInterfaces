@@ -1,3 +1,3 @@
 Chirpee, Noe Bhandari
 
-[![Chirpee](image link)](https://vimeo.com/177072931)
+[![Chirpee](EccentricInterfaces/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
