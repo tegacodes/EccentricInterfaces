@@ -5,19 +5,17 @@
 * Stone, Christopher D. [Should Trees Have Standing--Toward Legal Rights for Natural Objects.](http://isites.harvard.edu/fs/docs/icb.topic498371.files/Stone.Trees_Standing.pdf) 1972.
 * Purdy, Jedediah. [Anthropocene Fever.](https://aeon.co/essays/should-we-be-suspicious-of-the-anthropocene-idea) 2015.
 * Potter, Emily. [Climate Change and the Problem of Representation,](http://www.australianhumanitiesreview.org/archive/Issue-May-2009/potter.htm) 2009.
+* Franklin, Ursula M. The real world of technology. House of Anansi, 1999. Chapter 1.
+
+##Supplementary
 
 ###Design Practices:
 * Unpleasant Design [for ex: Hostile Urban Architecture.](99percentinvisible.org/episode/unpleasant-design-hostile-urban-architecture/)
 * Critical Design [Dunne & Raby](http://www.dunneandraby.co.uk/content/bydandr/13/0)
 * On the boundary between critical and speculative design [James Auger](http://www.clotmag.com/auger-loizeau)
-
-##Additional Readings
-
-###On design and technologies:
 * [Ivan Illich and the telephone as the perfect tool](http://www.theatlantic.com/technology/archive/2012/04/why-the-landline-telephone-was-the-perfect-tool/255930/)
 * [From Critical Design to Critical Infrastructure:Lessons from Turkopticon](https://www.dropbox.com/s/obt73eayyzex9o1/p32-irani-silberman-interactions-2014-critical%20infrastructure%20turkopticon.pdf?dl=0)
 * [Solving the wrong problems](http://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html?mwrsm=Facebook&_r=1)
-* Franklin, Ursula M. The real world of technology. House of Anansi, 1999.
 
 ###On design and activisim:
 * [The Accessible Icon Project, An icon is a verb, Sara Hendren](http://accessibleicon.org/)
