@@ -28,4 +28,4 @@ by Julian Burgess
 
 ###Of the Sky
 by Patrick Svensson and Jenna Xu
-![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyvizy/sky1.jpg)
+![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyviz/sky1.jpg)
