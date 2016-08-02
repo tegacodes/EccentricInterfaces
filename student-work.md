@@ -1,3 +1,4 @@
-Chirpee, Noe Bhandari
+###Chirpee
+by Noe Bhandari
 
-[![Chirpee](EccentricInterfaces/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
+[![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
