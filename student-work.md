@@ -15,7 +15,7 @@ by Sharon Hsienpu Chen and James Zhou
 by Harper Hunt, Mindy Lee and Ian Robinson
 
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b1.jpg)
-![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b4.jpg)
+![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b3.gif)
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b2.jpg)
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b3.jpg)
 
