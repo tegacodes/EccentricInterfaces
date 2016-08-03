@@ -14,6 +14,7 @@
 * Amy Balkin - Statistic Garden - http://tomorrowmorning.net/statisticgarden
 * Tim Knowles - http://www.timknowles.co.uk/work/treedrawings/tabid/265/default.aspx
 * Rutherford Chang - We buy white albums - http://rutherfordchang.com/white.html
+* Edwardo Navarro, [We who spin around you](http://art.thehighline.org/project/eduardonavarro/)
 
 ***Water***
 
@@ -24,7 +25,7 @@
 * Mitchell Whitelaw - http://mtchl.net/weather-bracelet/ 
 * Pierre Proske - Brickets - http://www.digitalstar.net/art/brickets/
 
-***Air***
+***Air/sky***
 
 * Airy Light - http://www.annelieberner.com/AiryLight 
 * Green Light - http://www.environmentalhealthclinic.net/portfolio_page/greenlight/ 
@@ -33,10 +34,10 @@
 * Public Smog - Amy Balkin - http://www.publicsmog.org/ 
 * Puff - Karolina Soebecka - http://www.gravitytrap.com/artwork/puff 
 * Statistic Garden - Amy Balking - http://tomorrowmorning.net/statisticgarden 
-
 * Carbon Pencils Gyorgyi Galkik and others - http://gyorgyigalik.com/Experiments-with-Invisible-Pollutants-I-Carbon-Pencils 
 * All works in http://carbonarts.org/wp-content/uploads/2015/05/BREATHE-exhibition-WHO-catalogue-Vellum-print.pdf 
 * Agnes Meyer-Brandis - Teacup tools - http://www.blubblubb.net/tea/index.html
+* Edwardo Navarro, [Instructions from the sky](http://www.navarroeduardo.com/projectos/EN.2016.pdf)
 
 ***Energy/Climate Change***
 
