@@ -1,17 +1,16 @@
 ###Chirpee
-by Noe Bhandari
 
 [![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
 ![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/c1.gif)
-Project description:
-This project attempts to counter the human-centred-design trend and concentrate on smart technologies for the animal kingdom. Chirpee addresses the issues related to the effect of urban pollution (both air quality and sound levels) affecting birds negatively. The issues encountered are an increase in hatchling mortality rate and difficulties for birds to communicate for mating practises and to alert an imminent hazard such as hawks.
-Chirpee is able to detect Nitrogen Dioxide levels in the air as well as sound pollution. Depending on the conditions of an area, Chirpee will either emit a mating call to attract birds, or emit the sound of a predator. Depending on the area Chirpee is set in, it will detect what species of birds are present and respond with the correct calls accordingly.
-Chirpee therefore prevents species of birds from being exposed to environmental hazards they are not aware of. 
-By multiplying the platforms and addressing other issues such as nighttime disturbance of migratory birds by city lights, the platform could help improve the health of bird species in heavily polluted cities around the world.
+  
+**Description:**
+Chirpee is a smart nest that warns bird populations of invisible environmental hazards to reduce their exposure. The project counters human-centred-design by proposing smart technologies for the animal kingdom. Why should humans be the only species to benefit from cheap and readily available computation?   
+Chirpee specifically addresses issues related to bird populations living in areas with high levels of urban pollution (both air quality and sound levels). Exposure to high levels of air born pollutants are known to increase hatchling mortality rates while high noise levels hinder bird communicatation and affect mating practices and the ability to signal danger from predetors such as hawks. Chirpee is able to detect Nitrogen Dioxide levels in the air as well as sound pollution. If pollutant levels are low Chirpee will emit a mating call to attract birds, if pollutant levels are high, it will emit the sound of a predator. Depending on location Chirpee will be updated with calls appropriate for communication with local species.   
+These devices could also potentially be deployed as a sensor network across an urban area to address other issues such as nighttime disturbance of migratory birds by city lights. The platform aims to improve the health of bird species in heavily polluted cities around the world.
 
-Contact info: noé bhandari - noe2102@gmail.com
-Website for project: http://noe2102.wix.com/portfolio
-Technogy used: Smart Citizen Kit - https://smartcitizen.me/kits/
+Project by [noé bhandari](http://noe2102.wix.com/portfolio) 
+Contact: noe2102@gmail.com
+Made with the [Smart Citizen Kit](https://smartcitizen.me/kits/) and [p5js](http://p5js.org/)
   
 ###Spiritum
 by Sharon Hsienpu Chen and James Zhou 
