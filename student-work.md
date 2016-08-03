@@ -49,6 +49,16 @@ by Julian Burgess
 
 ![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a1.jpg)
 ![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a2.jpg)
+Title: London Air Quality
+By: Julian
+Project description: 
+A look at how the air quality of London various over twenty-four hours for an entire year for a single monitoring station
+Research question or motivation:
+London has some of the worst air quality in europe. The network of monitoring stations make their data available and that has been used in this visualisation. How does air quality change, and what factors affect it? The visualization displays how air quality changes over time of day and by day of year. 
+In the future, I hope to show the information for all monitoring stations, for all years and measurement info so that you can get a better picture of the air quality in the areas near you and to see longer term trends and influences in air quality.
+
+Contact info: @aubergene
+Technology used: d3.js
 
 ###Sometimes Beautiful
 by Patrick Svensson and Jenna Xu
@@ -90,3 +100,6 @@ The "Reflections on Power" piece is comprised of two major technical components.
 ###Taste the City
 by Andreas Schwab and Ola Al-Nabhani 
 ![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/tastecity/t1.jpg)
+Project description:
+Honey is an indicator for soil quality as the quality of honey increases with biodiversity. The quality of soil is difficult to measure and visualize and, therefore, we use honey as visualization as a more tangible object.
+We created a concept for a platform that can be used by bee keepers to update the information on their honey and by the general public to obtain that information. The community and general public can taste the honey and give feedback to the bee keepers. This will foster interaction and raises awareness how the quality of soil and honey correlate.
