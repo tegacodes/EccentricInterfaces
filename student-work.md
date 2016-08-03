@@ -15,6 +15,7 @@ by Sharon Hsienpu Chen and James Zhou
 by Harper Hunt, Mindy Lee and Ian Robinson
 
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b1.jpg)
+![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b4.jpg)
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b2.jpg)
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b3.jpg)
 
@@ -23,9 +24,18 @@ by Mindy Lee
 
 ###London Air Quality Study
 by Julian Burgess
+
 ![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a1.jpg)
 ![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a2.jpg)
 
-###Of the Sky
+###Sometimes Beautiful
 by Patrick Svensson and Jenna Xu
+
 ![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyviz/sky1.jpg)
+
+###Reflections on Power
+by Katyayani Singh, Nathan Daviss, James Camilleri, Ajit Pillai and Ahmed Al-Nabhani 
+
+###Taste the City
+by Andreas Schwab and Ola Al-Nabhani 
+![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/tastecity/t1.jpg)
