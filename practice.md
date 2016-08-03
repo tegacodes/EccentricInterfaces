@@ -88,6 +88,7 @@
 * Ian Ingram - Danger Squirrel Nutkins - http://www.ingramclockworks.com/machines/2009_squirrel.html 
 * Dimitrios Stamatis, Špela Petrič, Pei-Ying Lin, Jasmina Weiss  - Plant Sex Consultancy - http://psx-consultancy.com/
 * Brandon Ballengee - http://brandonballengee.com/projects/love-motels
+* Edwardo Navarro, [Timeless Alex](http://www.navarroeduardo.com/projectos/EN_works2012-2015.pdf)
 
 ***Non-human infrastructures
 
