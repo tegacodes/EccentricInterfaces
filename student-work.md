@@ -1,5 +1,6 @@
 ###Chirpee
-
+By Noé Bhandari
+ 
 [![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
 ![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/c1.gif)
   
@@ -18,8 +19,8 @@ by Sharon Hsienpu Chen and James Zhou
 ![Spiritum1](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s2.jpg)
 ![Spiritum2](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s1.jpg)
 ![Spiritum3](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s3.jpg)
-Project description:
-Spiritum exists in a near future where reducing our carbon footprint is a necessity. Carbon conscientious individuals can chose to filter the carbon dioxide created from their breath before releasing it into the air. Spiritum is a planet based filtration system that soaks up the carbon dioxide from our breathe before releasing into the atmosphere.
+**Description:**
+Spiritum exists in a near future where reducing our carbon footprint is a necessity. Carbon conscientious individuals can choose to filter the carbon dioxide from their breath before releasing it into the air. Spiritum is a planet based filtration system that soaks up the carbon dioxide from exhalations before releasing it into the atmosphere.
 
 Contact info: @sharoniscarin @flodyssey
 sharon.hsienpu.chen@gmail.com
@@ -33,9 +34,10 @@ by Harper Hunt, Mindy Lee and Ian Robinson
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b2.jpg)
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b3.jpg)
 
-This study explores nature’s invisible relationship between the honeybee and its’ pollinators.  Creating awareness by personifying the honeybee and humanizing our relationship to the honeybee though the food industry and the image fetishes surrounding modern food culture.  The project realizes human oppression in relationship to the natural ecosystem as "adjunct" by usage of future artefacts and hyperbolic imagery.
+**Description:**
+This study explores our intimate relationship between the honeybee and other pollinators. It is a series of works that create awareness by personifying the honeybee and humanizing our relationship to it primarily though the food industry and modern food culture.  The project realizes human entanglement in relationship to the natural ecosystems through the creation of future artefacts and hyperbolic imagery.
   
-The project makes aware the necessity of the honeybee and suggests the need for a more biodiverse landscape, the antithesis of the mowed lawn, sculpted garden, and industrial agriculture systems that infiltrates modern society.  The artists question the audience to consider what a more biodiverse ecosystem looks like from the perspective of the honeybee.
+The project makes aware the necessity of the honeybee and suggests the need for a more biodiverse landscape, the antithesis of the mowed lawn, sculpted garden, and industrial agriculture systems that infiltrates modern society.  The audience is invited to consider what a more biodiverse ecosystem looks like from the perspective of the honeybee.
   
 Contact info: Mindy.c.lee@gmail.com, Harper.e.hunt@gmail.com, info.ianrobinson@gmail.com
 Tools: P5, Chrome Developer, Illustrator, InDesign, Photoshop
@@ -49,11 +51,12 @@ by Julian Burgess
 ![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a1.jpg)
 ![London](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/airquality/a2.jpg)
 
-Project description: 
-A look at how the air quality of London various over twenty-four hours for an entire year for a single monitoring station
-Research question or motivation:
-London has some of the worst air quality in europe. The network of monitoring stations make their data available and that has been used in this visualisation. How does air quality change, and what factors affect it? The visualization displays how air quality changes over time of day and by day of year. 
-In the future, I hope to show the information for all monitoring stations, for all years and measurement info so that you can get a better picture of the air quality in the areas near you and to see longer term trends and influences in air quality.
+**Description:**
+A look at daily air quality variations in London for an entire year at a single monitoring station.  
+  
+London has some of the worst air quality in europe. The network of monitoring stations make their data available and are visualized here. How does air quality change, and what factors affect it? The visualization displays how air quality changes over time of day and by day of year, revealing patterns and anomalies throughout the year. 
+  
+In the future, I hope to show the information for all monitoring stations, for all years as well as information regarding measurement to reveal a better picture of local air quality and to see longer term trends and influences in air quality.
 
 Contact info: @aubergene
 Technology used: d3.js
@@ -62,14 +65,16 @@ Technology used: d3.js
 by Patrick Svensson and Jenna Xu
 
 ![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyviz/sky1.jpg)
-Project description:
 
-What does air pollution look like when it’s not visible? Are we aware of what’s invisible? How do we unwittingly contribute to air pollution? We wanted to address the invisible generation of air pollutants and to juxtapose our perceptions of air quality with the reality that we see. Our intervention will hopefully help the audience realize that air pollution is not always egregious in form (ie, smog), but exists even in environmentally-conscious cities like Copenhagen. In an ideal future, we hope this sort of awareness might contribute to paying attention to issues around global warming.
+**Description:**
+What does air pollution look like when it’s not visible? Are we aware of what’s invisible? How do we unknowingly contribute to air pollution? We address the invisible generation of air pollutants and juxtapose our perceptions of air quality with the reality that we see and reported measurements. Our intervention will hopefully help the audience realize that air pollution is not always egregious in form (ie, smog), but exists even in environmentally-conscious cities like Copenhagen. We hope this sort of awareness might contribute to paying attention to issues relating to atmospheric pollution and global warming.
 
 Technology used: d3.js and p5.js
 
 ###Reflections on Power
 by Katyayani Singh, Nathan Daviss, James Camilleri, Ajit Pillai and Ahmed Al-Nabhani 
+
+**Description:**
 Designing an intervention which creates awareness about high energy consumption by playing into the narcissistic and self obsessive manner of people, making them take immediate action to cut down their energy usage.
 - Motivation
 How can we influence users in their homes to be more careful
@@ -99,6 +104,6 @@ The "Reflections on Power" piece is comprised of two major technical components.
 by Andreas Schwab and Ola Al-Nabhani 
 ![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/tastecity/t1.jpg)
 
-Project description:
+**Description:**
 Honey is an indicator for soil quality as the quality of honey increases with biodiversity. The quality of soil is difficult to measure and visualize and, therefore, we use honey as visualization as a more tangible object.
 We created a concept for a platform that can be used by bee keepers to update the information on their honey and by the general public to obtain that information. The community and general public can taste the honey and give feedback to the bee keepers. This will foster interaction and raises awareness how the quality of soil and honey correlate.
