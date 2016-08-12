@@ -9,9 +9,8 @@ Chirpee is a smart nest that warns bird populations of invisible environmental h
 Chirpee specifically addresses issues related to bird populations living in areas with high levels of urban pollution (both air quality and sound levels). Exposure to high levels of air born pollutants are known to increase hatchling mortality rates while high noise levels hinder bird communicatation and affect mating practices and the ability to signal danger from predetors such as hawks. Chirpee is able to detect Nitrogen Dioxide levels in the air as well as sound pollution. If pollutant levels are low Chirpee will emit a mating call to attract birds, if pollutant levels are high, it will emit the sound of a predator. Depending on location Chirpee will be updated with calls appropriate for communication with local species.   
 These devices could also potentially be deployed as a sensor network across an urban area to address other issues such as nighttime disturbance of migratory birds by city lights. The platform aims to improve the health of bird species in heavily polluted cities around the world.
 
-Project by [noé bhandari](http://noe2102.wix.com/portfolio) 
-Contact: noe2102@gmail.com
-Made with the [Smart Citizen Kit](https://smartcitizen.me/kits/) and [p5js](http://p5js.org/)
+Project by [noé bhandari](http://noe2102.wix.com/portfolio).  
+Tools: [Smart Citizen Kit](https://smartcitizen.me/kits/) and [p5js](http://p5js.org/)
   
 ###Spiritum
 by Sharon Hsienpu Chen and James Zhou 
@@ -22,9 +21,8 @@ by Sharon Hsienpu Chen and James Zhou
 **Description:**
 Spiritum exists in a near future where reducing our carbon footprint is a necessity. Carbon conscientious individuals can choose to filter the carbon dioxide from their breath before releasing it into the air. Spiritum is a planet based filtration system that soaks up the carbon dioxide from exhalations before releasing it into the atmosphere.
 
-Contact info: @sharoniscarin @flodyssey
-sharon.hsienpu.chen@gmail.com
-zhou.c.james@gmail.com
+@sharoniscarin @flodyssey
+
 
 ###Buzzed Off (Pollinator Studies)
 by Harper Hunt, Mindy Lee and Ian Robinson
@@ -58,8 +56,8 @@ London has some of the worst air quality in europe. The network of monitoring st
   
 In the future, I hope to show the information for all monitoring stations, for all years as well as information regarding measurement to reveal a better picture of local air quality and to see longer term trends and influences in air quality.
 
-Contact info: @aubergene
-Technology used: d3.js
+@aubergene  
+Tools: d3.js
 
 ###Sometimes Beautiful
 by Patrick Svensson and Jenna Xu
@@ -68,41 +66,34 @@ by Patrick Svensson and Jenna Xu
 
 **Description:**
 What does air pollution look like when it’s not visible? Are we aware of what’s invisible? How do we unknowingly contribute to air pollution? We address the invisible generation of air pollutants and juxtapose our perceptions of air quality with the reality that we see and reported measurements. Our intervention will hopefully help the audience realize that air pollution is not always egregious in form (ie, smog), but exists even in environmentally-conscious cities like Copenhagen. We hope this sort of awareness might contribute to paying attention to issues relating to atmospheric pollution and global warming.
-
-Technology used: d3.js and p5.js
+  
+Tools: d3.js, p5.js
 
 ###Reflections on Power
 by Katyayani Singh, Nathan Daviss, James Camilleri, Ajit Pillai and Ahmed Al-Nabhani 
-
+![Power](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/power/mirror2.jpg)
+![Power](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/power/mirror3.jpg)
+![Power](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/power/mirror1.jpg)
 **Description:**
 Designing an intervention which creates awareness about high energy consumption by playing into the narcissistic and self obsessive manner of people, making them take immediate action to cut down their energy usage.
 - Motivation
-How can we influence users in their homes to be more careful
-about their energy consumption?
+How can we prompt users in their homes to be more careful about their energy consumption?
 How can we make the results of their habits more immediate and more tangible?
 - Issues addressed
 People consume energy without realising its implications. From our research we came to know that everyone wants to be energy efficient and use the least amount of energy but as there is no immediate intervention, they do not realise that they are consuming higher amount of energy, hence they end up using more.
 So, we want to create an awareness about careful consumption of energy by creating short interactive interventions
 - The intervention
-Our product is connected to the power grid and registers the power consumption. As it comes to know that the energy consumption has gone higher, it automatically pixelates the mirrors, which makes the person realise that higher energy is being consumed and energy consumption needs to be reduced to get the mirror working like it should be.
+Our project is connected to the power grid and registers the power consumption of the dwelling. When it detects energy consumption to have increased, it automatically pixelates the mirrors, which makes the person realise that higher energy levels are being consumed.
 - Addressing the issue
-We are trying to address the narcissistic side of people, where they spend more time taking care of how they look, clicking selfies, etc. By creating this intervention, the people will relate to the message quick about higher energy consumption as they want to see their proper self back again and make them use less energy
+This work addresses the narcissistic side of people, where they spend large amounts of time taking care of how they look, creating and clicking selfies. This interface explores self obsession as an opportunity for behavior change, they must lower their energy consumption if they want to see their proper self back again.
 - The future
-We look at a future where people are aware of the intervention and consciously decide not to use higher energy. Also, we want to replicate the pixelation of yourself in the mirror to other glass based objects in the house, to create an even higher impact. Which will lead people to use even lower energy than the most optimum amount. Also, our initial plan with the project was to link it up with the WiFi, so the intervention happened both in real life and digitally. So as the energy consumption increases, the internet quality reduces. This highly impacts the awareness of energy consumption because people cannot handle the internet being slow.
+We look at a future where people are aware of the intervention and consciously decide not to use higher energy. Also, we want to replicate the pixelation of yourself in the mirror to other glass based objects in the house, to create an even higher impact. We're also interested in linking energy use with WiFi, so the intervention happened both in real life and digitally. So as the energy consumption increases, the internet quality reduces. This highly impacts the awareness of energy consumption because people cannot handle the internet being slow.
 
-Contact info: 
-Ahmed:     nabhaniahmed@gmail.com
-Ajit:      ajitplai@gmail.com
-James:     james@james.com.mt
-Katyayani: katyayani15046@iiitd.ac.in
-Nathan: ndaviss@c.ringling.edu
-
-Technology used:
-The "Reflections on Power" piece is comprised of two major technical components. The first, and most immediately noticeable aspect, is the software responsible for pixelating the input feed, while the second is the connective aspect which translates the inputs from the light switches to an appropriately degraded image on the "mirror". In order to facilitate communication between the light sources, and allow for expansion down the line, the entire system was built on a web-based platform, with the core functionality coded in javascript. The Spark Photon was used to communicate between the energy sources and the pixelation application, and the graphical manipulations were carried out using p5.js - a web-based port of the Processing framework. By sampling a scaled-down version of the webcam feed and redrawing the image with larger pixels, the granularity of the image can be adjusted on the fly as values from the light sources change.
+Tools: [p5js](https://p5js.org/), [Particle](https://www.particle.io/) (Spark Photon) 
 
 ###Taste the City
 by Andreas Schwab and Ola Al-Nabhani 
-![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/tastecity/t1.jpg)
+![Taste the city](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/tastecity/t1.jpg)
 
 **Description:**
 Honey is an indicator for soil quality as the quality of honey increases with biodiversity. The quality of soil is difficult to measure and visualize and, therefore, we use honey as visualization as a more tangible object.
