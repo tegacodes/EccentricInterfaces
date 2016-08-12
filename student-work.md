@@ -65,9 +65,16 @@ by Patrick Svensson and Jenna Xu
 ![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyviz/sky1.jpg)
 
 **Description:**
+<<<<<<< HEAD
 What does air pollution look like when it’s not visible? Are we aware of what’s invisible? How do we unknowingly contribute to air pollution? We address the invisible generation of air pollutants and juxtapose our perceptions of air quality with the reality that we see and reported measurements. Our intervention will hopefully help the audience realize that air pollution is not always egregious in form (ie, smog), but exists even in environmentally-conscious cities like Copenhagen. We hope this sort of awareness might contribute to paying attention to issues relating to atmospheric pollution and global warming.
   
 Tools: d3.js, p5.js
+=======
+[View project here.](https://xujenna.github.io/sometimesbeautiful/)
+What does air pollution look like? Are we aware of what’s invisible? How do we unknowingly contribute to air pollution? We address the invisible generation of air pollutants and juxtapose our perceptions of air quality with the reality that we see and reported measurements. Our intervention will hopefully help the audience realize that air pollution is not always egregious in form (ie, smog), but exists even in environmentally-conscious cities like Copenhagen. We hope this sort of awareness might contribute to paying attention to issues relating to atmospheric pollution and global warming.
+
+Technology used: d3.js and p5.js
+>>>>>>> d464c524cde7c49fb887e6c3a6a00d2c72f04294
 
 ###Reflections on Power
 by Katyayani Singh, Nathan Daviss, James Camilleri, Ajit Pillai and Ahmed Al-Nabhani 
