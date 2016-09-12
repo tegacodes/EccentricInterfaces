@@ -1,5 +1,5 @@
 # Eccentric Interfaces, Environmental Interventions
-Taught by [Tega Brain](http://tegabrain.com/) and [Annalie Berner](http://www.annelieberner.com/)  
+Taught by [Tega Brain](http://tegabrain.com/) and [Annelie Berner](http://www.annelieberner.com/)  
 [Copenhagen Institute for Interactive Design](http://ciid.dk/education/summer-school/ciid-summer-school-2016/workshops/eccentric-interfaces-environmental-interventions/) 
 
 July 25th – 29th, 2016  
