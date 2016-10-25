@@ -12,15 +12,16 @@ var bx;
 
 //this is what pings their API and uses a javascript thing called socket.io
 //basically imagine it as opening up the star gate and the data comes through
-io.connect('wss://smartcitizen.xyz').on('data-received', function(device) {
+io.connect('wss://smartcitizen.xyz').on('data-received', newData);
+
+function newData(device) {
 	if(device.data.id==3724){
 		console.log(device);
 		//$('body').append("<div>" + device.data.name + "</div>");   
 		//we put the json dataz in a variable called dataz
 		dataz=device;
 	}
-
-});
+}
 
 function preload(){
 
