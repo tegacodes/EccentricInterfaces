@@ -5,7 +5,7 @@ Working in pairs, use analogue methods to create or record an index of some elem
 **Due:** Tuesday morning.
 
 ###Inspiration:
-Check out the links in the resources page of the repository under environmental observation. Also the examples in the Sensing lecture.  
+Check out the links in the resources page of the repository under environmental observation. Read this article on [data visualization without data](http://datadrivenjournalism.net/news_and_analysis/a_data_visualization_that_doesnt_use_data#When:16:25:33Z). Also the examples in the Sensing lecture.  
 Consider the following prompts: 
 * How would you use an ephemeral substance like chalk to mark a change in the environment over time?
 * How can you use your body to measure an environment or dynamic process within it?
