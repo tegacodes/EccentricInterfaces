@@ -1,4 +1,4 @@
-###Chirpee
+### Chirpee
 By Noé Bhandari
  
 [![Chirpee](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/chirpee/chirpeevid.png)](https://vimeo.com/177072931)
@@ -12,7 +12,7 @@ These devices could also potentially be deployed as a sensor network across an u
 Project by [noé bhandari](http://noe2102.wix.com/portfolio).  
 Tools: [Smart Citizen Kit](https://smartcitizen.me/kits/) and [p5js](http://p5js.org/)
   
-###Spiritum
+### Spiritum
 by Sharon Hsienpu Chen and James Zhou 
 
 ![Spiritum1](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/spiritum/s2.jpg)
@@ -24,7 +24,7 @@ Spiritum exists in a near future where reducing our carbon footprint is a necess
 @sharoniscarin @flodyssey
 
 
-###Buzzed Off (Pollinator Studies)
+### Buzzed Off (Pollinator Studies)
 by Harper Hunt, Mindy Lee and Ian Robinson
 
 ![Buzzed Off](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/buzzedoff/b1.jpg)
@@ -40,7 +40,7 @@ The project makes aware the necessity of the honeybee and suggests the need for 
 Contact info: Mindy.c.lee@gmail.com, Harper.e.hunt@gmail.com, info.ianrobinson@gmail.com
 Tools: P5, Chrome Developer, Illustrator, InDesign, Photoshop
 
-###No Bees Browser Add-on
+### No Bees Browser Add-on
 by Mindy Lee
 
 ###London Air Quality Study
@@ -59,7 +59,7 @@ In the future, I hope to show the information for all monitoring stations, for a
 @aubergene  
 Tools: d3.js
 
-###Sometimes Beautiful
+### Sometimes Beautiful
 by Patrick Svensson and Jenna Xu
 
 ![Sky Viz](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/skyviz/sky1.jpg)
@@ -76,7 +76,7 @@ What does air pollution look like? Are we aware of what’s invisible? How do we
 Technology used: d3.js and p5.js
 >>>>>>> d464c524cde7c49fb887e6c3a6a00d2c72f04294
 
-###Reflections on Power
+### Reflections on Power
 by Katyayani Singh, Nathan Daviss, James Camilleri, Ajit Pillai and Ahmed Al-Nabhani 
 ![Power](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/power/mirror2.jpg)
 ![Power](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/power/mirror3.jpg)
@@ -98,7 +98,7 @@ We look at a future where people are aware of the intervention and consciously d
 
 Tools: [p5js](https://p5js.org/), [Particle](https://www.particle.io/) (Spark Photon) 
 
-###Taste the City
+### Taste the City
 by Andreas Schwab and Ola Al-Nabhani 
 ![Taste the city](https://raw.githubusercontent.com/tegacodes/EccentricInterfaces/master/attachments/studentwork/tastecity/t1.jpg)
 
